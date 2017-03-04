@@ -10,7 +10,7 @@ Additional information like verse numbers, chapter, book info etc. is added with
 
 For a live example, please see the project [Zürcher Bibel](https://github.com/gottesfurcht/zuercher-bibel).
 
-The formatting (like headings, paragraphs, bold text etc.)is achieved by Markdown markup. Here we have a short example:
+The formatting (like headings, paragraphs, bold text etc.) is achieved by Markdown markup. Here we have a short example:
 
 ```md
 <collection>
